@@ -1,0 +1,10 @@
+# Local tooling / preview config
+.claude/
+
+# Design reference + source documents (not part of the published site)
+stitch_aesthetic_gynaecology_web_design/
+*.docx
+
+# OS junk
+Thumbs.db
+.DS_Store
